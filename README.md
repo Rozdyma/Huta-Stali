@@ -29,5 +29,14 @@
 <p align ="left">   ;) zadowolenie</p> <br>
 <p align ="left">   ;[ niezadowolenie</p> <br>
 <p align ="left">   C: szczescie</p> <br>
+
+<p align="left">80-188 Gdańsk Grzegorza z pod Kolana 101/34</p> <br> 
+
+<p align="right"> <font color="green" size="5" face="Times New Roman"> Ulubiony aktor: Ryan Gosling </font> </p> <br>
+<p align="center"> <font color="gray" size="5" face="'Courier New"> Ulubiony zespół: MGMT </font> </p> <br>
+<p align="center"> <font color="green" size="5" face="'Courier New"> Data urodzenia 25 marca 2005 </font> </p> <br>
+<p align="right"> <font color="yellow" size="4" face="Verdana"> H<sub></sub>2SO<sub></sub>4 </font> </p> <br>
+<p align="right"> <font color="yellow" size="4" face="Arial"> x*x=x2 </font> </p> <br>
+
     </body>
     </html>
