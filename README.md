@@ -23,11 +23,11 @@
 <h6> Lukowski </h1><br>
 
 
-<p align ="left">   🙂 usmiech </p> <br>
-<p align ="left">   😦 smutek  </p> <br>
+<p align ="left">   :) usmiech </p> <br>
+<p align ="left">   :( smutek  </p> <br>
 <p align ="left">   0-0 zaskoczenie</p> <br>
-<p align ="left">   😄 zadowolenie</p> <br>
-<p align ="left">   😭 niezadowolenie</p> <br>
+<p align ="left">   ;) zadowolenie</p> <br>
+<p align ="left">   ;[ niezadowolenie</p> <br>
 <p align ="left">   C: szczescie</p> <br>
     </body>
     </html>
