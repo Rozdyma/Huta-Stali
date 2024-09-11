@@ -3,24 +3,24 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Bartosz Berdys</title>
+        <title>Kacper Lukowski</title>
     </head>
     <body>
-<p align="right"> <font color"blue" size="1" face="Arial"> Bartosz </font></p><br>
-<p align="right"> <font color"blue" size="2" face="Arial"> Bartosz </font></p><br>
-<p align="right"> <font color"blue" size="3" face="Arial"> Bartosz </font></p><br>
-<p align="right"> <font color"blue" size="4" face="Arial"> Bartosz </font></p><br>
-<p align="right"> <font color"blue" size="5" face="Arial"> Bartosz </font></p><br>
-<p align="right"> <font color"blue" size="6" face="Arial"> Bartosz </font></p><br>
-<p align="right"> <font color"blue" size="7" face="Arial"> Bartosz </font></p><br>
+<p align="right"> <font color"blue" size="1" face="Arial"> Kacper </font></p><br>
+<p align="right"> <font color"blue" size="2" face="Arial"> Kacper </font></p><br>
+<p align="right"> <font color"blue" size="3" face="Arial"> Kacper </font></p><br>
+<p align="right"> <font color"blue" size="4" face="Arial"> Kacper </font></p><br>
+<p align="right"> <font color"blue" size="5" face="Arial"> Kacper </font></p><br>
+<p align="right"> <font color"blue" size="6" face="Arial"> Kacper </font></p><br>
+<p align="right"> <font color"blue" size="7" face="Arial"> Kacper </font></p><br>
 
 
-<h1> Berdys </h1><br>
-<h2> Berdys </h1><br>
-<h3> Berdys </h1><br>
-<h4> Berdys </h1><br>
-<h5> Berdys </h1><br>
-<h6> Berdys </h1><br>
+<h1> Lukowski </h1><br>
+<h2> Lukowski </h1><br>
+<h3> Lukowski </h1><br>
+<h4> Lukowski </h1><br>
+<h5> Lukowski </h1><br>
+<h6> Lukowski </h1><br>
 
 
 <p align ="left">   🙂 usmiech </p> <br>
