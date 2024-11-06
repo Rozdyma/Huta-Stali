@@ -1,12 +1,65 @@
 <!DOCTYPE html>
-	<html lang="pl-PL">
-	<html>
-		<head>
-			<meta charset="utf-8">
-			<title> </title>
-		</head>
-		<body>
-			tutaj bedzie formularz <br>
-			<A HREF="https://Rozdyma.github.io/Huta-Stali/"> wróć </A> <br>
-		</body>
-	</html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Formularz zgłoszeniowy do konkursu geograficznego</title>
+</head>
+<body>
+    <h1>Formularz zgłoszeniowy do konkursu geograficznego</h1>
+    <form action="#" method="post">
+        <label for="name">1. Imię:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="surname">2. Nazwisko:</label><br>
+        <input type="text" id="surname" name="surname" required><br><br>
+
+        <label for="region">3. Województwo z którego jesteś:</label><br>
+        <input type="text" id="region" name="region" required><br><br>
+
+        <label>4. Do jakiej szkoły chodzisz?</label><br>
+        <input type="radio" id="primary1-5" name="school" value="Szkoła podstawowa klasy 1-5" required>
+        <label for="primary1-5">Szkoła podstawowa klasy 1-5</label><br>
+        <input type="radio" id="primary6-8" name="school" value="Szkoła podstawowa klasy 6-8">
+        <label for="primary6-8">Szkoła podstawowa klasy 6-8</label><br>
+        <input type="radio" id="high1-4" name="school" value="Liceum 1-4">
+        <label for="high1-4">Liceum 1-4</label><br>
+        <input type="radio" id="technical1-5" name="school" value="Technikum 1-5">
+        <label for="technical1-5">Technikum 1-5</label><br>
+        <input type="radio" id="vocational" name="school" value="Szkoła branżowa">
+        <label for="vocational">Szkoła branżowa</label><br><br>
+
+        <label for="age">5. Ile masz lat?</label><br>
+        <input type="number" id="age" name="age" min="1" required><br><br>
+
+        <label>6. Jak bardzo interesujesz się geografią?</label><br>
+        <input type="radio" id="very" name="interest" value="Bardzo" required>
+        <label for="very">Bardzo</label><br>
+        <input type="radio" id="somewhat" name="interest" value="Trochę">
+        <label for="somewhat">Trochę</label><br>
+        <input type="radio" id="average" name="interest" value="Średnio">
+        <label for="average">Średnio</label><br>
+        <input type="radio" id="slightly" name="interest" value="W ogóle">
+        <label for="slightly">W ogóle</label><br><br>
+
+        <label>7. W skali od 1-10 jak dobrze oceniasz swoją wiedzę o geografii?</label><br>
+        <select id="knowledge" name="knowledge" required>
+            <option value="10">10</option>
+            <option value="9">9</option>
+            <option value="8">8</option>
+            <option value="7">7</option>
+            <option value="6">6</option>
+            <option value="5">5</option>
+            <option value="4">4</option>
+            <option value="3">3</option>
+            <option value="2">2</option>
+            <option value="1">1</option>
+        </select><br><br>
+
+        <label for="about">8. Coś o sobie:</label><br>
+        <textarea id="about" name="about" rows="4" cols="50"></textarea><br><br>
+
+        <button type="reset">Wyczyść</button>
+        <button type="submit">Wyślij</button>
+    </form>
+</body>
+</html>
